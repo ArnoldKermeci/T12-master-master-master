@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_activity_name">Glavni Aktiviti</string>
+    <string name="second_activity_name">Drugi Aktiviti</string>
+    <string name="third_activity_name">Treci Aktiviti</string>
+</resources>
